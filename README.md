@@ -1,1 +1,3 @@
-# Learn_RNN_with_saver
+#scripts of learning RNN
+
+**LSTM RNN with variant sequence length**
